@@ -6,7 +6,6 @@ jobs:
       image: ubuntu-2004:202104-01
     steps:
       - checkout
-blad tego typu
       - run: make deps
       - run: make lint
       - run: make test
