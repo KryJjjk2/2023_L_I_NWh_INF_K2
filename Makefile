@@ -8,8 +8,3 @@ run:
 .PHONY: test
 test:
 	PYTHONPATH=. py.test --verbose -s
-<<<<<<< HEAD
-=======
-
-	
->>>>>>> b00f04dcc9e7b9843500dca58c7bf8432193d187
